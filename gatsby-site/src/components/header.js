@@ -19,8 +19,8 @@ const Header = ({ children }) => {
           <Link to="/Inicio" style={style} className=" block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
             INICIO
         </Link>
-          <Link to="/Potifolio" style={style} className="block mt-4 lg:inline-block lg:mt-0 text-teal-100 hover:text-white mr-4">
-            POTIFOLIO
+          <Link to="/Portifolio" style={style} className="block mt-4 lg:inline-block lg:mt-0 text-teal-100 hover:text-white mr-4">
+            PORTIFOLIO
         </Link>
           <Link to="/Docs" style={style} className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
             DOCS
